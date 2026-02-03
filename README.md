@@ -37,7 +37,7 @@ JavaScript
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/pedroveiga-l/ConvertCoin.git)
 
 Abra o arquivo index.html no navegador
 ou utilize a extensão Live Server no VS Code.
