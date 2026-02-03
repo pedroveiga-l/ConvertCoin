@@ -29,10 +29,12 @@ CSS3
 JavaScript
 
 📂 Estrutura do projeto
+```
 📁 projeto
  ├── index.html
  ├── style.css
  └── script.js
+```
 ▶️ Como executar o projeto
 
 Clone o repositório:
